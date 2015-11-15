@@ -1,7 +1,7 @@
 # Présentation
 
 ----------
-**DJ-Form** est un site de formation informatique dont le but est de fournir les éléments de connaissance, nécessaires pour la conception de sites web dynamiques et la programmation web. Il a essentiellement pour cible les débutants.  
+**DJ-Form** est un site de formation informatique dont le but est de fournir les éléments de connaissance, nécessaires pour la *conception de sites web dynamiques et la programmation web*. Il a essentiellement pour cible les débutants.  
 
 ## Esquisse du physique ##
 
@@ -13,8 +13,8 @@
   
 ## Programme de formation ##
 
-Etant donnée la qualité novice de nos cibles,**DJ-Form** orientera la dispensation de ses cours pour qu'ils soient accessible(assez faciles à comprendre) à tous!  
-Les langages qui feront l'objet de notre formation seront la plus part de ceux qui sont les plus utilisés.  
+Etant donnée la qualité novice de nos cibles,**DJ-Form** orientera la dispensation de ses cours pour qu'ils soient accessibles(assez faciles à comprendre) à tous!  
+Les langages qui feront l'objet de notre formation seront certains de ceux qui sont *les plus utilisés*.  
 Nous apprendrons les langages suivants:  
 
 1. *HTML5 & CSS3*  
